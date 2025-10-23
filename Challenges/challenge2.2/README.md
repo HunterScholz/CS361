@@ -1,0 +1,1 @@
+Writing functions it very beneficial to code because it preventing repeating code. Repetition in code makes understanding code and debugging very difficult. Using functions to replicated repeated instances of code, like counting all vowels, makes it much easier to understand what the code is doign as long as its named well, and it reduces the complexity of the code.
